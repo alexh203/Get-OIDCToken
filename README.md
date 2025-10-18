@@ -18,7 +18,7 @@ A PowerShell script to obtain an OpenID Connect (OIDC) access token from an iden
 - PowerShell 5.1+ or PowerShell Core (7+)
 - Internet access to reach the identity provider
 - Registered OAuth application
-- Parse-JWTtoken https://github.com/alex203/Parse-JWTtoken
+- Parse-JWTtoken https://github.com/alexh203/Parse-JWTtoken
 
 ---
 
